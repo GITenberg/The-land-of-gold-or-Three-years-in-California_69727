@@ -1,0 +1,26 @@
+_repo: The-land-of-gold-or-Three-years-in-California_69727
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Colton, Walter
+    gutenberg_agent_id: '55392'
+    url: http://www.gutenberg.org/2009/agents/55392
+description: ''
+gutenberg_issued: '2023-01-07'
+identifiers:
+  gutenberg: '69727'
+language: en
+pgterms:marc904: https://archive.org/details/landofgoldorthre00colt
+pgterms:marc905: 20201201080013colton
+pgterms:marc906: '1860'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: D. W. Evans & Co.,1860.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The land of gold: or, Three years in California'
+url: http://www.gutenberg.org/ebooks/69727
