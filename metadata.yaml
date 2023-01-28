@@ -1,11 +1,16 @@
 _repo: The-land-of-gold-or-Three-years-in-California_69727
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69727-h/images/cover.jpg
 creator:
   author:
     agent_name: Colton, Walter
     gutenberg_agent_id: '55392'
     url: http://www.gutenberg.org/2009/agents/55392
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69727#The-land-of-gold-or-Three-years-in-California
 gutenberg_issued: '2023-01-07'
 identifiers:
   gutenberg: '69727'
